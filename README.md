@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cjurgens17
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on any beginner friendly python projects
+- 👀 I’m interested in cybersecurity/full-stack development
+- 🌱 I’m currently learning full-stack web development
+- 💞️Always looking to learn more
 - 📫 How to reach me ...
 
 <!---
