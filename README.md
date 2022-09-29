@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @cjurgens17
-- 👀 I’m interested in cybersecurity/full-stack development
-- 🌱 I’m currently learning full-stack web development
-- 💞️Always looking to learn more
-- 📫 How to reach me ...
+- 👀 I’m interested in Software Development,Brazilian Jiu Jitsu, and Problem Solving
+- 🌱 I’m currently working on building DSA knowledge
+- 💞️Challenge Seeker, it keeps me energized
+
 
 <!---
 cjurgens17/cjurgens17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
