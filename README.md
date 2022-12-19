@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cjurgens17
-- 👀 I’m interested in Software Development,Brazilian Jiu Jitsu, and Problem Solving
+- 👀 I’m interested in Software Development, CyberSecurity, and puzzles
 - 🌱 I’m currently working on building DSA knowledge
 - 💞️Challenge Seeker, it keeps me energized
 
