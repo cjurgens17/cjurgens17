@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cjurgens17
-- 👀 I’m interested in Software Development, CyberSecurity, and puzzles
-- 🌱 I’m currently working on building DSA knowledge
+- 👀 I’m interested in Software Development, strategy, and puzzles
+- 🌱 I’m currently working on pokemon trading app
 - 💞️Challenge Seeker, it keeps me energized
 
 
