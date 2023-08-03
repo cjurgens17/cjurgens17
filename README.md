@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development, strategy, reading
 - 🌱 I’m currently typing in this read me
 - 💞️Challenge Seeker, it keeps me energized
-- [Check out my website if you want to colloborate](chrisjurgens.com)
+- [Check out my website if you want to colloborate](https://chrisjurgens.com)
 
 
 <!---
