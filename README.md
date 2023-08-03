@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @cjurgens17
-- 👀 I’m interested in Software Development, strategy, and puzzles
-- 🌱 I’m currently working on pokemon trading app
+- 👀 I’m interested in Software Development, strategy, reading
+- 🌱 I’m currently typing in this read me
 - 💞️Challenge Seeker, it keeps me energized
+- [Check out my website if you want to colloborate](chrisjurgens.com)
 
 
 <!---
