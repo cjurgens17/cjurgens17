@@ -1,10 +1,13 @@
 - 👋 Hi, I’m @cjurgens17
-- 👀 I’m interested in Software Development, strategy, reading
-- 🌱 I’m currently typing in this read me
-- 💞️Challenge Seeker, it keeps me energized
-- [Check out my website if you want to colloborate](https://chrisjurgens.com)
+- 👀 Interested in building, puzzles, challenges
+- Learning how to become less confused than I was yesterday
+<div style="display: flex; justify-content: center; align-items: center;">
 
 
+<a href="https://leetcode.com/cjurgens17/" style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="LeetCode Logo" width="400" height="50">
+</a>
+</div>
 <!---
 cjurgens17/cjurgens17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
