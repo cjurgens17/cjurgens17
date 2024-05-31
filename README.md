@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @cjurgens17
 - 👀 Interested in building, puzzles, challenges
-- Learning how to become less confused than I was yesterday
 <div style="display: flex; justify-content: center; align-items: center;">
 
 
